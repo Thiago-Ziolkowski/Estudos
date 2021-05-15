@@ -15,7 +15,7 @@ Programas de estudo:
 
 
 ---
-# TESTANDO ISSUES E LINGUAGEM MARKDOWN
+## TESTANDO ISSUES E LINGUAGEM MARKDOWN
 
 *Nos repositórios é possível pinar (fixar uma ISSUES principal do repositório).*
 
@@ -44,8 +44,8 @@ Lista demarcada (basta inserir asterisco)
    * Teste
 
 Lista de tarefas (para inserir - [ ] 
-- [x] Criar portfólio
-- [x] Criar video apresentação
+[x] Criar portfólio
+[ ] Criar video apresentação
 
 Inserir imagem (Obs. Não usar imagens muito grandes máximo 500px largura*)
 Arrastar a imagem na barra *attach files*
