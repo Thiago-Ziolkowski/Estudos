@@ -67,7 +67,7 @@ Destacando um comando, por exemplo `print("Olá, Mundo!!")` , basta colocar entr
 
 Para sinalizar um codigo basta colocá-lo entre 3 crases 
 ```
-nome = str(input("Digite seu nome: ")
+nome = str(input("Digite seu nome: "))
 ```
 
 > Será que vai chover
