@@ -1,0 +1,17 @@
+REMOVENDO ESPAÇO EM TEXTO OU STRING
+
+LIMPANDO ESPAÇOS ADICIONAIS
+importar arquivo-transformar
+formato-cortar (remove espaços no inicio e no final)
+
+LIMPANDO ESPAÇOS ADICIONAIS
+NO MEIO
+formato-limpar
+
+SUBSTITUINDO VALORES
+powe query
+clicar com botão direito substituit valores
+substituir dois espaços por um espaço
+opções avançadas vocÊ pode achar algum caracter especial como o caso do TAB
+
+
