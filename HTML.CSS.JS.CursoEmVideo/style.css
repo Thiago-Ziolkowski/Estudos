@@ -1,3 +1,4 @@
+/*usar para comentar*/
 
 /*
 ----------------------------------------
@@ -13,7 +14,16 @@ ESTRUTURA BASE
 **** @MEDIA
 */
 
+/*----------FORMATAÇÃO DE IMAGENS COM LEGENDAS------------*/
 
+figure .foto-legenda{
+    border: 5px solid rgb(156, 0, 0);
+    box-shadow:1px 1px 4px black;
+} 
+
+
+
+/*---------- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ------------*/
 
 :root{
     --corBackgroundPrincipal: #eeeaea;
