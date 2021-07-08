@@ -1,0 +1,32 @@
+/*
+----------------------------------------
+ESTRUTURA BASE
+----------------------------------------
+**** DECLARAÇÃO DE VARIAVEIS
+**** ESTILOS GERAIS
+**** BODY
+**** HEADER
+**** FOOTER
+**** PÁGINA INICIAL
+**** EXTRAS
+**** @MEDIA
+*/
+
+
+:root{
+    --corBackgroundPrincipal: #eeeaea;
+}
+
+p{
+    text-align:justify;
+    text-indent:50px;
+    color: rgb(68, 64, 64);
+}
+
+hgroup{
+    background-color: rgb(212, 203, 203);
+}
+
+div{
+    background-color:var(--corBackgroundPrincipal)
+}
